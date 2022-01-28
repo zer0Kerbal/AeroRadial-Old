@@ -9,7 +9,7 @@ Also available on CKAN. -->
 # DaMichel's AeroRadial  
 ##### A continuation of DaMichel's Aero RTG Pack  
 *originally named Radial Aerodynamic RTG*  
-![AeroRadial version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Faeroradial.json)
+![AeroRadial version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FAeroRadial%2Fmaster%2Fjson%2Fmod.json)
 ![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json)
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC--BY--SA--3.0-lightgrey)
 > An electrical parts mod adding two streamlined radially attached parts: one RTG and one Fuel Cell.
