@@ -5,7 +5,7 @@ title: License: CC BY-SA 4.0
 
 <!--
 CC-BY-SA-4.0.md v1.0.0.0
-DaMichel Ltd (DM/L)
+DaMichel's AeroRadial (DM/A)
 created: 01 Feb 2022
 updated: 07 Mar 2022
 -->
