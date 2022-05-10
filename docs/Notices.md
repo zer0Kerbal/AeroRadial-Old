@@ -8,13 +8,13 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Notices.md v1.0.0.0
-DaMichel Ltd (DM/L)
+DaMichel's AeroRadial (DM/A)
 created: 13 Apr 2022
 updated: 
 
 based upon work by LisiasT -->
 
-# DaMichel Ltd (DM/L)
+# DaMichel's AeroRadial (DM/A)
 
 [Home](./index.md)
 
@@ -22,8 +22,9 @@ based upon work by LisiasT -->
 
 * "DaMichel" is trademark of DaMichel
 * "Kichel Space Travel Supplies" is trademark of DaMichel
+* "AeroRadial" is a trademark of DaMichel
 * "DaMichel Ltd" is trademark of zer0Kerbal
-* "DM/L" is trademark of zer0Kerbal
+* "DM/A" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
