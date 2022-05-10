@@ -1,17 +1,8 @@
 {
-<<<<<<< Updated upstream
-"schemaVersion": 1,
-"label": "AeroRadial",
-"labelColor": "darkgreen",
-"message": "1.1.0.1",
-"color": "orange",
-"style": "plastic"
-=======
  "schemaVersion": 1,
- "label": "DaMichel Ltd",
+ "label": "DaMichel's AeroRadial",
  "labelColor": "BADA55",
- "message": "0.9.99.0",
+ "message": "1.1.0.1",
  "color": "darkgreen",
  "style": "plastic"
->>>>>>> Stashed changes
 }
